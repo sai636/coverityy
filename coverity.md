@@ -96,5 +96,5 @@ cov_commit(idir,covConnectUrl,streamName,COVERITY_USERNAME,COVERITY_PASSWORD,Lis
 - **codingStandardConfigFiles**: This parameter likely represents the configuration files the coding standards to be applied during the analysis.
 - **streamName**-  A string representing the name of the Stream
 
-####Optional Parameters
+####Optional Parameter
 -  **OtherOptions**: These are other options likely an optional list of additional configuration options specific to your project.
